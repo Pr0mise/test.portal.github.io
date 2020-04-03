@@ -1,6 +1,6 @@
 //import required libraries
 //import 'bootstrap'
-//import './site.scss'
+import 'site.scss'
 const $ = require('jquery');
 
 
