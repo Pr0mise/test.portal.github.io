@@ -1,0 +1,23 @@
+{
+  "name": "ClientApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.25.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  },
+  "description": ""
+}
